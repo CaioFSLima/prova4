@@ -1,0 +1,272 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    position: absolute;
+    width: 351px;
+    height: 50px;
+    left: 10px;
+    top: 24px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125.9%;
+    color: #000000;
+}
+.h2{
+    position: absolute;
+    width: 81.65px;
+    height: 40px;
+    left: 1083.52px;
+    top: 29px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 125.9%;
+    color: #FFFFFF; 
+    text-decoration: none;  
+}
+.login{
+    position: absolute;
+    width: 292.32px;
+    height: 50px;
+    left: 977.68px;
+    top: 24px;
+    background: #252525;
+    border-radius: 8px;
+}
+.h3{
+    position: absolute;
+    width: 1260px;
+    height: 55px;
+    left: 10px;
+    top: 90px;
+    background: #FFFFFF;
+    border-width: 1px 0px;
+    border-style: solid;
+    border-color: #000000;
+    text-align: center;
+}
+.menu{
+    position: absolute;
+    width: 61px;
+    height: 30px;
+    left: 609px;
+    top: 102px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 125.9%;
+    text-align: center;  
+    color: #000000;
+}
+#foto1{
+    position: absolute;
+    width: 727px;
+    height: 295px;
+    left: 10px;
+    top: 155px;
+}
+#foto2{
+    position: absolute;
+    width: 515px;
+    height: 600px;
+    left: 755px;
+    top: 155px;
+}
+#foto3{
+    position: absolute;
+    width: 353px;
+    height: 295px;
+    left: 10px;
+    top: 460px;
+}
+#foto4{
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 383px;
+    top: 460px;    
+}
+#foto5{
+    position: absolute;
+    width: 515px;
+    height: 600px;
+    left: 10px;
+    top: 765px;
+}
+#foto6{
+    position: absolute;
+    width: 727px;
+    height: 295px;
+    left: 543px;
+    top: 765px;
+}
+#foto7{
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 543px;
+    top: 1070px;
+}
+#foto8{
+    position: absolute;
+    width: 354px;
+    height: 295px;
+    left: 916px;
+    top: 1070px;
+}
+.fundo{
+    position: absolute;
+    width: 1280px;
+    height: 228px;
+    left: 0px;
+    top: 1375px;
+    background: #161616;
+}
+.fr{
+    position: absolute;
+    width: 213px;
+    height: 100px;
+    left: 10px;
+    top: 1441px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 125.9%;
+    color: #FFFFFF;
+}
+.youtube{
+    position: absolute;
+    left: 0%;
+    right: 0.01%;
+    top: 12.49%;
+    bottom: 17.26%;
+    
+}
+.cp{
+    position: absolute;
+    width: 182px;
+    height: 30px;
+    left: 1082px;
+    top: 1474px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 125.9%;
+    color: #FFFFFF;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    gap: 56px;
+    position: absolute;
+    width: 368px;
+    height: 50px;
+    left: 468px;
+    top: 1464px;
+}
+#um{
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 10px;
+    top: 389px;
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    color: #FFFFFF
+}
+#dois{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 755px;
+    top: 694px;
+    color: #FFFFFF
+}
+#tres{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 10px;
+    top: 694px;
+    color: #FFFFFF
+}
+#quatro{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 383px;
+    top: 695px;
+    color: #FFFFFF
+}
+#cinco{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 10px;
+    top: 1304px;
+    color: #FFFFFF
+}
+#seis{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 543px;
+    top: 999px;
+    color: #FFFFFF
+}
+#sete{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 543px;
+    top: 1304px;
+    color: #FFFFFF
+}
+#oito{
+    background: rgba(0, 0, 0, 0.62);
+    text-align: justify;
+    padding: 1rem;
+    position: absolute;
+    width: 193px;
+    height: 61px;
+    left: 916px;
+    top: 1304px;
+    color: #FFFFFF;
+}
+.container{
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
